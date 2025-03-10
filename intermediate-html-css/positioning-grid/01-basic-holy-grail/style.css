@@ -9,6 +9,8 @@ html {
   height: 100%;
   padding: 16px;
   box-sizing: border-box;
+  display: inline-grid;
+  grid-template: 60px 60px 60px 60px 60px 60px 60px 60px/ 60px 60px 60px 60px;
 }
 
 .container div {
